@@ -17,7 +17,7 @@ Crear un proyecto de react que muestre un formulario con un input y un button qu
 ## Como clonar el respositorio 🖨
 
 ```bash
-git clone 
+git clone https://github.com/teoMunoz99/tp1-react-eje6
 ```
 ## Autor 👦
 
